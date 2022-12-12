@@ -1,0 +1,39 @@
+/* *{
+    font-family: fantasy;
+} */
+
+.fantasy{
+    font-family: fantasy;
+}
+
+.bigger:hover{
+    font-family: monospace;
+    font-size: 20px;
+}
+#second>p{
+    color: green;
+}
+
+body {
+   font-size: 17px;
+}
+
+#first {
+    font-style: italic;
+    color: brown;
+    background-color: aqua;
+}
+
+.purple{
+    color: black;
+    background-color: lightblue;
+}
+
+.contact
+{
+    color: blue;
+}
+
+.highlight{
+    background-color: yellow;
+}
